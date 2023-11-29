@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+*{
+    font-family: 'poppins';
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: blanchedalmond;
+    padding: 1.2% 2%;
+    justify-content: space-between;
+}
+.flex-divs{
+    display: flex;
+    align-items: center;
+}
+.menu-icon {
+    margin-right: 12px;
+}
+.yt-icon{
+    margin-right: 3px;
+}
+.yt-name{
+    font-size: 20px;
+    font-family : Arial, Helvetica, sans-serif; 
+    font-weight : bolder;
+    letter-spacing :-2px;
+}
+.create, .bell{
+    margin-right: 35px;
+}
+.user-icon{
+    margin-right: 20px;
+}
