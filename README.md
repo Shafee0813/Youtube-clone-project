@@ -4,4 +4,4 @@ Here I eventually try to complete my goal of making a functional, responsive web
 <br> 
 # Technologies used:
 HTML
-CSS
+<br>CSS
