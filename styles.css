@@ -5,16 +5,13 @@
     padding: 0;
 }
 nav{
-    background-color: blanchedalmond;
+    background-color: rgb(90, 54, 0);
     padding: 1.2% 2%;
     justify-content: space-between;
 }
 .flex-divs{
     display: flex;
     align-items: center;
-}
-.menu-icon {
-    margin-right: 12px;
 }
 .yt-icon{
     margin-right: 3px;
@@ -25,9 +22,17 @@ nav{
     font-weight : bolder;
     letter-spacing :-2px;
 }
-.create, .bell{
-    margin-right: 35px;
+
+.border{
+    background-color: transparent;
+    border: none;
+    width: 40px;
+    height: 40px;
 }
-.user-icon{
-    margin-right: 20px;
+.border:hover{
+    background-color: rgb(90,90,90);
+    border-radius: 20px;
+}
+.border-left{
+    margin-right: 30px;
 }
